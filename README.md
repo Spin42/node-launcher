@@ -12,9 +12,10 @@ Use the arrow keys to move the tower and fire with the spacebar!
 ## Supported USB Missile launchers
 The script is expected to work with several types of USB missile launchers.
 
-| Name              | Vendor        | Status |
-| ----------------- | ------------- | ------ |
-| USB Raketenwerfer | getDigital    | Works  |
+| Name              | Vendor        | Status     |
+| ----------------- | ------------- | ---------- |
+| USB Raketenwerfer | getDigital    | Works      |
+| Thunder           | DreamCheaky   | Not tested |
 
 Any Missile launcher that looks like this should be supported...
 
