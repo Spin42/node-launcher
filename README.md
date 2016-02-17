@@ -19,7 +19,12 @@ The script is expected to work with several types of USB missile launchers.
 ### How to test this script with other USB launchers
 * Edit the `launcher.js` file
 * Look for a variable called `launcher`
-* Change the value of this variable with your launcher's identifier (Can be found by calling `HID.devices()` in the node console)
+* Change the value of this variable with your launcher's identifier (check following section if you don't know how)
 * Launch the script with `node launcher.js`
+
+### Listing all connected HID USB devices
+* Open a node.js console by running `node` in your terminal
+* Require `node-hid` with `var HID = require('node-hid')`
+* List all devices with `HID.devices()`
 
 If other USB missile launchers work with this script, tell us and we'll add it to the list of supported devices.
