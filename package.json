@@ -1,0 +1,22 @@
+{
+  "name": "launcher",
+  "version": "1.0.0",
+  "description": "Control your USB Missile Launcher with node.js",
+  "main": "launcher.js",
+  "scripts": {
+    "test": "node launcher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spin42/node-launcher.git"
+  },
+  "keywords": [
+    "usb"
+  ],
+  "author": "Marc Lainez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spin42/node-launcher/issues"
+  },
+  "homepage": "https://github.com/Spin42/node-launcher#readme"
+}
