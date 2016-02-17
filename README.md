@@ -12,9 +12,9 @@ Use the arrow keys to move the tower and fire with the spacebar!
 ## Supported USB Missile launchers
 The script is expected to work with several types of USB missile launchers.
 
-+-------------------+------------+-------+
-| USB Raketenwerfer | getDigital | Works |
-+-------------------+------------+-------+
+| Name of launcher  | Vendor        | Status |
+| ----------------- | ------------- | ------ |
+| USB Raketenwerfer | getDigital    | Works  |
 
 ### How to test this script with other USB launchers
 * Edit the `launcher.js` file
