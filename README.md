@@ -16,6 +16,10 @@ The script is expected to work with several types of USB missile launchers.
 | ----------------- | ------------- | ------ |
 | USB Raketenwerfer | getDigital    | Works  |
 
+Any Missile launcher that looks like this should be supported...
+
+![getDigital USB Rakentenwerfer Image](https://www.getdigital.de/web/getdigital/gfx/products/__generated__resized/1100x1100/Raketenwerfer_gruen_main-2.jpg "getDigital USB Raketenwerfer")
+
 ### How to test this script with other USB launchers
 * Edit the `launcher.js` file
 * Look for a variable called `launcher`
