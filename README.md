@@ -15,7 +15,7 @@ The script is expected to work with several types of USB missile launchers.
 | Name              | Vendor        | Status     |
 | ----------------- | ------------- | ---------- |
 | USB Raketenwerfer | getDigital    | Works      |
-| Thunder           | DreamCheaky   | Not tested |
+| Thunder           | DreamCheeky   | Not tested |
 
 Any Missile launcher that looks like this should be supported...
 
